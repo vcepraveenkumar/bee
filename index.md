@@ -11,46 +11,43 @@ layout: course-single
 
 # <a name="description">Objectives</a>
 
-  This course is intended to introduce the basic concepts of Electric Circuits, Machines, Diodes and Rectifiers to Mechanical Engineering students. This course makes the student to understand the basics of Network theorems and its applications. The operation and performance of D.C. Machines (Motors and Generators) will be exposed to the students theoretically and practically. Also, the students are made to have awareness about the AC fundamentals, electronic devices and digital systems. Being an integrated course, the students will realize the theoretical concepts studied in the course by conducting experiments in the laboratory using hardware.
+  Basic Electrical Engineering is a theory course intended to enhance the knowledge of students in electric circuits, DC and AC machines and develop analytical skills. The course addresses the underlying concepts and methods behind Electrical Engineering. The course
+presents the knowledge of the Electrical Engineering, basic principles, types of electrical circuit and network theorems. The principle and operating conditions of D.C. Machines (Motor and Generator), Transformers, Induction Motors and alternators will be discussed.
 
 ## <a name="outcomes">Course Outcomes</a>
 
 After the completion of the course, the student will be able to:
 
-A7209.1. Apply network reduction techniques and knowledge of alternating quantities to calculate current, Voltage and Power for complex circuits..
+A8204.1 Apply network reduction techniques and knowledge of alternating quantities to calculate current, Voltage and Power for complex circuits
 
-A7209.2. Analyze the electrical circuits using Nodal Analysis, Mesh Analysis and Network Theorems.
+A8204.2 Analyze the electrical circuits using Nodal Analysis, Mesh Analysis and Network Theorems.
 
-A7209.3. Test and analyze the characteristics of DC machines.
+A8204.3 Apply the principles for the operation of DC machines, AC Machines and 1-phase Transformers
 
-A7209.4. Analyze the operation and characteristics of electronic devices.
+A8204.4 Analyze the characteristics of DC machines, AC Machines and 1-Phase Transformers.
 
-A7209.5. Apply theorems of Boolean algebra to simplify a digital circuit. 
 
 # <a name="syllabus">Syllabus</a>
 
-**DC Circuits:** Electrical circuit elements (R, L and C), voltage and current sources, Ohms Law, KVL and KCL, Mesh and Nodal Analysis, Superposition, Thevenin’s, Norton’s and Maximum Power Transfer Theorems. 
-**AC Circuits:** Representation of sinusoidal waveforms, peak and RMS values, phasor representation, real power, reactive power, apparent power, power factor. 
-
-**D.C. Generators:** Principle of operation, Action of commutator, constructional features, armature windings - lap and wave windings, E.M.F. Equation, separately excited and self-excited dc generators, Magnetization Characteristics and Load Characteristics. 
-
-**D.C. Motors:** Principle of operation - Types - Back E.M.F., Torque equation, Characteristics, Speed control of D.C. Motors (Armature and field control), Losses and Efficiency, Brake Test, Swinburne’s Test. 
-
-**Electronic Devices:** Diodes - symbols, operation, V-I characteristics, rectifiers - half wave, full wave and bridge rectifiers. Transistors - Construction and operation, CB, CE and CC configurations and characteristics, applications.
-
-**Digital Systems:** Representation of Numerical Data in Binary Form, Basic and universal logic gates, Boolean algebra, De Morgan’s laws, Simplification by Boolean theorems, Implementation using logic gates. 
+**DC Circuits:** Electrical circuit elements (R, L and C), Ohm’s Law, KVL and KCL, Types of sources, source Transformation , Network reduction Techniques (Series, Parallel and StarDelta), Mesh and Nodal Analysis, Thevenin’s, Norton’s and Superposition Theorem (DC
+Excitation only)- Numerical Problems.
+**AC Circuits:** Representation of sinusoidal waveforms, Average & RMS value, Peak factor, Form factor, j- notation, Analysis of single-phase AC circuits consisting of R, L, C, RL, RC,RLC combinations (series circuits only) - Numerical Problems.
+**Single Phase Transformers:** Principle and constructional details, types, EMF equation, operation on NO load and ON load Condition - Numerical Problems.
+**DC Machines:** D.C. Generators - Principle of operation, E.M.F. Equation, Methods of Excitation - separately excited and self-excited generators. D.C Motors – Principle of operationBack E.M.F, Torque Equation, torque-speed characteristics of DC Shunt motor.
+**AC Machines:** Generation of rotating magnetic fields, Construction and working of a threephase induction motor, Torque-Starting and Running Torque, torque-slip characteristics, Construction and working of synchronous generator, No-Load Characteristics -Conceptual
+description only. 
 
 # <a name="textbooks">Text Books</a>
 
-1. T. K. Nagasarkar, M. S. Suhkija, Basic Electrical Engineering, 2nd Edition, Oxford University Press, 2007
+1. William Hart Hayt, Jack Ellsworth Kemmerly, Steven M. Durbin(2007), Engineering Circuit Analysis, 7th Edition, McGraw-Hill Higher Education, New Delhi, India.
+2. B.L. Theraja, A.K. Theraja, A text book of Electrical Technology,(Vol 1&2), S. Chand Publishers, New Delhi.
 
 
 ## <a name="references">Reference Books</a>
 
-1. A. E. Fitzgerald, C. Kingsley, S. Umans, Electric Machinery, 5th edition, TMH, New Delhi, 2002
-2. B. L. Theraja, A. K. Theraja , A text book of Electrical Technology, 2nd edition, S. Chand Publishers, New Delhi, 2002
-3. S. Salivahanan, N Suresh Kumar, A. Vallavaraj , Electronic Devices and Circuits, Tata McGraw Hill, India, 2007
-4. J. Millman, C. Halkias, and Satyabratha Jit , Electronic Devices and Circuits, 3rd Edition, Tata McGraw Hill, New Delhi, 2011
+1. D.P. Kothari and I.J. Nagrath, Basic Electrical Engineering, 3rd Edition, Tata Mc-Graw Hill, 2010.
+2. D.C. Kulshreshtha, Basic Electrical Engineering, Mc Graw Hill, 2009.
+3. L.S. Bobrow, Fundamentals of Electrical Engineering, Oxford University Press, 2011.
 
 <hr>
 
