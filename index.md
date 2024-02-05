@@ -31,9 +31,13 @@ A8204.4 Analyze the characteristics of DC machines, AC Machines and 1-Phase Tran
 
 **DC Circuits:** Electrical circuit elements (R, L and C), Ohm’s Law, KVL and KCL, Types of sources, source Transformation , Network reduction Techniques (Series, Parallel and StarDelta), Mesh and Nodal Analysis, Thevenin’s, Norton’s and Superposition Theorem (DC
 Excitation only)- Numerical Problems.
+
 **AC Circuits:** Representation of sinusoidal waveforms, Average & RMS value, Peak factor, Form factor, j- notation, Analysis of single-phase AC circuits consisting of R, L, C, RL, RC,RLC combinations (series circuits only) - Numerical Problems.
+
 **Single Phase Transformers:** Principle and constructional details, types, EMF equation, operation on NO load and ON load Condition - Numerical Problems.
+
 **DC Machines:** D.C. Generators - Principle of operation, E.M.F. Equation, Methods of Excitation - separately excited and self-excited generators. D.C Motors – Principle of operationBack E.M.F, Torque Equation, torque-speed characteristics of DC Shunt motor.
+
 **AC Machines:** Generation of rotating magnetic fields, Construction and working of a threephase induction motor, Torque-Starting and Running Torque, torque-slip characteristics, Construction and working of synchronous generator, No-Load Characteristics -Conceptual
 description only. 
 
