@@ -1,0 +1,86 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+#objectives: >- # this means to ignore newlines until "baseurl:"
+#  Introduction to solving computational problems, including the fundamentals
+#  of computer programming. Topics include imperative programming constructs
+#  (variables, loops, conditionals, functions, recursion), basic
+#  object-oriented constructs (classes, objects), and some fundamental
+#  algorithms and data structures (dictionaries, arrays, linked lists).
+#  Student learn these concepts through studying the Python programming
+#  language.  
+baseurl: "/a7205" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+number: A7205
+title: Electric Power Generation
+semester: 2021-2022
+
+navigation:
+  - title: Overview
+    subfolderitems:
+      - page: Objectives
+        url: '#objectives'
+      - page: Course Outcomes
+        url: '#outcomes'
+      - page: Syllabus
+        url: '#syllabus'
+      - page: Text Books
+        url: '#textbooks'
+   #  - page: In-Class Code
+#    url: '#inclasscode'
+  - title: Resources
+    subfolderitems:
+      - page: Lecture Notes
+        url: 'lecturenotes'
+  - title: Coursework
+    subfolderitems:
+      - page: Practice
+        url: '#practice'
+      - page: Alternative Assessment
+        url: '#aat'
+      - page: Continuous Assessment
+        url: '#cat'      
+  - page: Commitments
+    url: '#commitments'
+
+instructors:
+  - id: srv
+    name: Dr. S. Ravivarman
+    email: ravivarman@vardhaman.org
+    #web: http://wwww.example.com
+    phone: +91 99942 77431
+
+offerings:
+  - name: LECTURE
+    loc: 5103
+    instructor: srv 
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
